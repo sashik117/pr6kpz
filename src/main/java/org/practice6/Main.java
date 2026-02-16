@@ -1,4 +1,4 @@
-package org.example;
+package org.practice6;
 
 import java.util.List;
 
